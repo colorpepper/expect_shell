@@ -1,0 +1,5 @@
+lsmod |grep amdgpu
+
+
+
+
